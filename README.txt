@@ -11,3 +11,4 @@ Objetivos mais específicos:
 - Resolver conflitos 
 - Criar familiaridade com o terminal 
 - Entender os conceitos de clonagem, fork, branch etc 
+- bla bla bla 
