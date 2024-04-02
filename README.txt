@@ -1,6 +1,6 @@
 Curso Git e GitHub: compartilhando e colaborando em projetos
 Local: Alura 
-Objetivo: O objetivo é concluir o curso antes do fim do primeiro semestre de estágio, de preferência bem antes, 
+Objetivo: O é concluir o curso antes do fim do primeiro semestre de estágio, de preferência bem antes, 
 e assim conseguir dominar melhor o fluxo de gerênciamento de repositórios usado com a equipe no trabalho.
 
 Objetivos mais específicos:
